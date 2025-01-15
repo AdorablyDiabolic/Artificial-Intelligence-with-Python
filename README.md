@@ -2,7 +2,7 @@
 Artificial Intelligence with Python Project's and Notes
 
 
-# CS50 AI Problem Set Solutions
+# Problem Set Solutions
 This repository contains all the solutions I submitted as part of [Harvard's CS50AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/). I am sharing my work to contribute to the community and help others grow and learn. Best of luck in your AI journey!
 
 # Topics Covered
