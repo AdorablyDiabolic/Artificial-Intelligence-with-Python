@@ -1,4 +1,4 @@
-# Harvard CS50's Introduction to Artificial Intelligence
+# Introduction to Artificial Intelligence with Python
 Artificial Intelligence with Python Project's and Notes
 
 
